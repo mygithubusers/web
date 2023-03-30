@@ -39,7 +39,7 @@ jobs:
       run: cp public/robots.txt.production public/robots.txt
 
     - name: Publish to Registry
-      uses: elgohr/Publish-Docker-Github-Action@master
+      uses: elgohr/Publish-Docker-Github-Action@v5
       with:
         name: standardnotes/web
         username: ${{ secrets.DOCKER_USERNAME }}

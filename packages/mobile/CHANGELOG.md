@@ -3,6 +3,40 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.58.146](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.145...@standardnotes/mobile@3.58.146) (2024-10-03)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.145](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.144...@standardnotes/mobile@3.58.145) (2024-10-03)
+
+### Reverts
+
+* Revert "chore: update play billing version to fix android build [skip e2e]" ([3796df5](https://github.com/standardnotes/app/commit/3796df5159282b78f4a59f22451cc7ca1136d862))
+
+## [3.58.144](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.143...@standardnotes/mobile@3.58.144) (2024-09-28)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.143](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.142...@standardnotes/mobile@3.58.143) (2024-09-26)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.142](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.141...@standardnotes/mobile@3.58.142) (2024-09-25)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.141](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.140...@standardnotes/mobile@3.58.141) (2024-09-20)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.140](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.139...@standardnotes/mobile@3.58.140) (2024-09-14)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
+## [3.58.139](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.138...@standardnotes/mobile@3.58.139) (2024-09-09)
+
+**Note:** Version bump only for package @standardnotes/mobile
+
 ## [3.58.138](https://github.com/standardnotes/app/compare/@standardnotes/mobile@3.58.137...@standardnotes/mobile@3.58.138) (2024-07-17)
 
 **Note:** Version bump only for package @standardnotes/mobile

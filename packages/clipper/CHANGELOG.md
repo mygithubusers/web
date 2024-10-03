@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.486](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.485...@standardnotes/clipper@1.1.486) (2024-10-03)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.485](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.484...@standardnotes/clipper@1.1.485) (2024-10-03)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.484](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.483...@standardnotes/clipper@1.1.484) (2024-09-28)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.483](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.482...@standardnotes/clipper@1.1.483) (2024-09-26)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.482](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.481...@standardnotes/clipper@1.1.482) (2024-09-20)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.481](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.480...@standardnotes/clipper@1.1.481) (2024-09-14)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
+## [1.1.480](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.479...@standardnotes/clipper@1.1.480) (2024-09-09)
+
+**Note:** Version bump only for package @standardnotes/clipper
+
 ## [1.1.479](https://github.com/standardnotes/app/compare/@standardnotes/clipper@1.1.478...@standardnotes/clipper@1.1.479) (2024-07-17)
 
 **Note:** Version bump only for package @standardnotes/clipper

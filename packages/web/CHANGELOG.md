@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.195.8](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.7...@standardnotes/web@3.195.8) (2024-10-03)
+
+**Note:** Version bump only for package @standardnotes/web
+
+## [3.195.7](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.6...@standardnotes/web@3.195.7) (2024-10-03)
+
+### Reverts
+
+* Revert "chore: update play billing version to fix android build [skip e2e]" ([3796df5](https://github.com/standardnotes/app/commit/3796df5159282b78f4a59f22451cc7ca1136d862))
+
+## [3.195.6](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.5...@standardnotes/web@3.195.6) (2024-09-28)
+
+**Note:** Version bump only for package @standardnotes/web
+
+## [3.195.5](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.4...@standardnotes/web@3.195.5) (2024-09-26)
+
+**Note:** Version bump only for package @standardnotes/web
+
+## [3.195.4](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.3...@standardnotes/web@3.195.4) (2024-09-20)
+
+**Note:** Version bump only for package @standardnotes/web
+
+## [3.195.3](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.2...@standardnotes/web@3.195.3) (2024-09-14)
+
+### Bug Fixes
+
+* Fixed issue with embedded note links getting deselected after first click ([48b558b](https://github.com/standardnotes/app/commit/48b558bb5dd5254673b7e21df32c1aa35836ed3e))
+
+## [3.195.2](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.1...@standardnotes/web@3.195.2) (2024-09-09)
+
+**Note:** Version bump only for package @standardnotes/web
+
 ## [3.195.1](https://github.com/standardnotes/app/compare/@standardnotes/web@3.195.0...@standardnotes/web@3.195.1) (2024-07-17)
 
 **Note:** Version bump only for package @standardnotes/web
